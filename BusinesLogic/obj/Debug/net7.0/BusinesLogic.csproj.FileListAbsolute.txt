@@ -1,0 +1,17 @@
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\bin\Debug\net7.0\BusinesLogic.deps.json
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\bin\Debug\net7.0\BusinesLogic.runtimeconfig.json
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\bin\Debug\net7.0\BusinesLogic.dll
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\bin\Debug\net7.0\BusinesLogic.pdb
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\bin\Debug\net7.0\Core.dll
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\bin\Debug\net7.0\Core.pdb
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.csproj.AssemblyReference.cache
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.AssemblyInfo.cs
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.csproj.CopyComplete
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.dll
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\refint\BusinesLogic.dll
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.pdb
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\BusinesLogic.genruntimeconfig.cache
+C:\Users\Migue\source\repos\NetMarker\BusinesLogic\obj\Debug\net7.0\ref\BusinesLogic.dll
