@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using BusinesLogic.Data;
 using Microsoft.EntityFrameworkCore;
+using WebApi.Dtos;
 
 public class Startup
 {
@@ -21,6 +22,9 @@ public class Startup
 
     public void ConfigureServices (IServiceCollection services)
     {
+
+        services.AddAutoMapper(typeof(MappingProfiles));
+        services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         services.AddDbContext<MarketDbContext>(opt =>
         {
             opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
